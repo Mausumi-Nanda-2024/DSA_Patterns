@@ -8,3 +8,4 @@
 | 6 | [Ransom Note](./LeetCode/Easy/Ransom%20Note) | [LeetCode](https://leetcode.com/problems/ransom-note/) | Easy | 19 Jun 2026 | 06:23 pm |
 | 7 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 19 Jun 2026 | 06:23 pm |
 | 8 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 19 Jun 2026 | 06:24 pm |
+| 9 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 19 Jun 2026 | 06:24 pm |
