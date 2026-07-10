@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
-  "currentStreak": 1,
+  "totalSolved": 14,
+  "currentStreak": 2,
   "maxStreak": 2,
-  "lastSyncDate": "2026-07-09",
+  "lastSyncDate": "2026-07-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 0
   },
@@ -23,14 +23,16 @@
     "LeetCode_Linked_List_Cycle": true,
     "LeetCode_Find_the_Duplicate_Number": true,
     "LeetCode_Reverse_Linked_List": true,
-    "LeetCode_Squares_of_a_Sorted_Array": true
+    "LeetCode_Squares_of_a_Sorted_Array": true,
+    "GeeksForGeeks_Triplets_with_Smaller_Sum": true
   },
   "activityHistory": {
     "2026-06-19": 9,
     "2026-06-20": 3,
-    "2026-07-09": 1
+    "2026-07-09": 1,
+    "2026-07-10": 1
   },
   "todayProblems": [
-    "Squares of a Sorted Array"
+    "Triplets with Smaller Sum"
   ]
 }

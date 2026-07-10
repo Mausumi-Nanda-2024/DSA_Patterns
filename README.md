@@ -13,3 +13,4 @@
 | 11 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 20 Jun 2026 | 03:05 pm |
 | 12 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 20 Jun 2026 | 04:40 pm |
 | 13 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 09 Jul 2026 | 01:57 pm |
+| 14 | [Triplets with Smaller Sum](./GeeksForGeeks/Medium/Triplets%20with%20Smaller%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Medium | 10 Jul 2026 | 07:49 pm |
