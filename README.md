@@ -15,3 +15,4 @@
 | 13 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 09 Jul 2026 | 01:57 pm |
 | 14 | [Triplets with Smaller Sum](./GeeksForGeeks/Medium/Triplets%20with%20Smaller%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Medium | 10 Jul 2026 | 07:49 pm |
 | 15 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 11 Jul 2026 | 10:52 pm |
+| 16 | [Max Sum Subarray of size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 13 Jul 2026 | 12:29 pm |

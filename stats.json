@@ -1,11 +1,11 @@
 {
-  "totalSolved": 15,
-  "currentStreak": 3,
+  "totalSolved": 16,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-07-11",
+  "lastSyncDate": "2026-07-13",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 7,
     "hard": 0,
     "basic": 0
@@ -25,16 +25,18 @@
     "LeetCode_Reverse_Linked_List": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
     "GeeksForGeeks_Triplets_with_Smaller_Sum": true,
-    "LeetCode_Sort_Colors": true
+    "LeetCode_Sort_Colors": true,
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
   },
   "activityHistory": {
     "2026-06-19": 9,
     "2026-06-20": 3,
     "2026-07-09": 1,
     "2026-07-10": 1,
-    "2026-07-11": 1
+    "2026-07-11": 1,
+    "2026-07-13": 1
   },
   "todayProblems": [
-    "Sort Colors"
+    "Max Sum Subarray of size K"
   ]
 }
