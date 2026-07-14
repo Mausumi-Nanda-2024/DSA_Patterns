@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-14",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -27,7 +27,8 @@
     "GeeksForGeeks_Triplets_with_Smaller_Sum": true,
     "LeetCode_Sort_Colors": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
-    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true
+    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
+    "LeetCode_Fruit_Into_Baskets": true
   },
   "activityHistory": {
     "2026-06-19": 9,
@@ -36,9 +37,10 @@
     "2026-07-10": 1,
     "2026-07-11": 1,
     "2026-07-13": 1,
-    "2026-07-14": 1
+    "2026-07-14": 2
   },
   "todayProblems": [
-    "Longest Substring with K Uniques"
+    "Longest Substring with K Uniques",
+    "Fruit Into Baskets"
   ]
 }
