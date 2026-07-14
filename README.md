@@ -16,3 +16,4 @@
 | 14 | [Triplets with Smaller Sum](./GeeksForGeeks/Medium/Triplets%20with%20Smaller%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Medium | 10 Jul 2026 | 07:49 pm |
 | 15 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 11 Jul 2026 | 10:52 pm |
 | 16 | [Max Sum Subarray of size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 13 Jul 2026 | 12:29 pm |
+| 17 | [Longest Substring with K Uniques](./GeeksForGeeks/Medium/Longest%20Substring%20with%20K%20Uniques) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Medium | 14 Jul 2026 | 01:54 pm |
