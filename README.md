@@ -19,3 +19,4 @@
 | 17 | [Longest Substring with K Uniques](./GeeksForGeeks/Medium/Longest%20Substring%20with%20K%20Uniques) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Medium | 14 Jul 2026 | 01:54 pm |
 | 18 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 14 Jul 2026 | 05:03 pm |
 | 19 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 15 Jul 2026 | 09:30 pm |
+| 20 | [Max Consecutive Ones III](./LeetCode/Medium/Max%20Consecutive%20Ones%20III) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | 15 Jul 2026 | 11:06 pm |

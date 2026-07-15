@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 10,
+    "medium": 11,
     "hard": 0,
     "basic": 0
   },
@@ -29,7 +29,8 @@
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
     "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
     "LeetCode_Fruit_Into_Baskets": true,
-    "LeetCode_Longest_Repeating_Character_Replacement": true
+    "LeetCode_Longest_Repeating_Character_Replacement": true,
+    "LeetCode_Max_Consecutive_Ones_III": true
   },
   "activityHistory": {
     "2026-06-19": 9,
@@ -39,9 +40,10 @@
     "2026-07-11": 1,
     "2026-07-13": 1,
     "2026-07-14": 2,
-    "2026-07-15": 1
+    "2026-07-15": 2
   },
   "todayProblems": [
-    "Longest Repeating Character Replacement"
+    "Longest Repeating Character Replacement",
+    "Max Consecutive Ones III"
   ]
 }
