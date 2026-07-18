@@ -1,11 +1,11 @@
 {
-  "totalSolved": 20,
-  "currentStreak": 3,
+  "totalSolved": 21,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-07-15",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-18",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 11,
     "hard": 0,
     "basic": 0
@@ -30,7 +30,8 @@
     "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
     "LeetCode_Fruit_Into_Baskets": true,
     "LeetCode_Longest_Repeating_Character_Replacement": true,
-    "LeetCode_Max_Consecutive_Ones_III": true
+    "LeetCode_Max_Consecutive_Ones_III": true,
+    "LeetCode_Reverse_Vowels_of_a_String": true
   },
   "activityHistory": {
     "2026-06-19": 9,
@@ -40,10 +41,10 @@
     "2026-07-11": 1,
     "2026-07-13": 1,
     "2026-07-14": 2,
-    "2026-07-15": 2
+    "2026-07-15": 2,
+    "2026-07-18": 1
   },
   "todayProblems": [
-    "Longest Repeating Character Replacement",
-    "Max Consecutive Ones III"
+    "Reverse Vowels of a String"
   ]
 }
