@@ -1,12 +1,12 @@
 {
-  "totalSolved": 21,
-  "currentStreak": 1,
+  "totalSolved": 22,
+  "currentStreak": 2,
   "maxStreak": 3,
-  "lastSyncDate": "2026-07-18",
+  "lastSyncDate": "2026-07-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 0
   },
@@ -31,7 +31,8 @@
     "LeetCode_Fruit_Into_Baskets": true,
     "LeetCode_Longest_Repeating_Character_Replacement": true,
     "LeetCode_Max_Consecutive_Ones_III": true,
-    "LeetCode_Reverse_Vowels_of_a_String": true
+    "LeetCode_Reverse_Vowels_of_a_String": true,
+    "LeetCode_Linked_List_Cycle_II": true
   },
   "activityHistory": {
     "2026-06-19": 9,
@@ -42,9 +43,10 @@
     "2026-07-13": 1,
     "2026-07-14": 2,
     "2026-07-15": 2,
-    "2026-07-18": 1
+    "2026-07-18": 1,
+    "2026-07-19": 1
   },
   "todayProblems": [
-    "Reverse Vowels of a String"
+    "Linked List Cycle II"
   ]
 }
