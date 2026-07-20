@@ -23,3 +23,4 @@
 | 21 | [Reverse Vowels of a String](./LeetCode/Easy/Reverse%20Vowels%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 18 Jul 2026 | 08:01 pm |
 | 22 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 19 Jul 2026 | 09:33 pm |
 | 23 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 20 Jul 2026 | 05:49 pm |
+| 24 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 20 Jul 2026 | 11:09 pm |
