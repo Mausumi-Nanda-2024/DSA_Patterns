@@ -27,3 +27,4 @@
 | 25 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./LeetCode/Medium/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | 21 Jul 2026 | 07:35 pm |
 | 26 | [Frequency of the Most Frequent Element](./LeetCode/Medium/Frequency%20of%20the%20Most%20Frequent%20Element) | [LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | 22 Jul 2026 | 09:51 pm |
 | 27 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 23 Jul 2026 | 09:59 pm |
+| 28 | [Minimum Sum Subarray](./GeeksForGeeks/Medium/Minimum%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | Medium | 23 Jul 2026 | 10:08 pm |
