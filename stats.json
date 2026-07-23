@@ -1,12 +1,12 @@
 {
-  "totalSolved": 26,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-07-22",
+  "totalSolved": 27,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-07-23",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 14,
+    "medium": 15,
     "hard": 0,
     "basic": 0
   },
@@ -36,7 +36,8 @@
     "LeetCode_Middle_of_the_Linked_List": true,
     "LeetCode_Happy_Number": true,
     "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
-    "LeetCode_Frequency_of_the_Most_Frequent_Element": true
+    "LeetCode_Frequency_of_the_Most_Frequent_Element": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-06-19": 9,
@@ -51,9 +52,10 @@
     "2026-07-19": 1,
     "2026-07-20": 2,
     "2026-07-21": 1,
-    "2026-07-22": 1
+    "2026-07-22": 1,
+    "2026-07-23": 1
   },
   "todayProblems": [
-    "Frequency of the Most Frequent Element"
+    "Maximum Subarray"
   ]
 }
