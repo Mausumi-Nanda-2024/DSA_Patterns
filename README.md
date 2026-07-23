@@ -28,3 +28,4 @@
 | 26 | [Frequency of the Most Frequent Element](./LeetCode/Medium/Frequency%20of%20the%20Most%20Frequent%20Element) | [LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | 22 Jul 2026 | 09:51 pm |
 | 27 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 23 Jul 2026 | 09:59 pm |
 | 28 | [Minimum Sum Subarray](./GeeksForGeeks/Medium/Minimum%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | Medium | 23 Jul 2026 | 10:08 pm |
+| 29 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 23 Jul 2026 | 10:19 pm |
