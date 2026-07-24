@@ -29,3 +29,4 @@
 | 27 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 23 Jul 2026 | 09:59 pm |
 | 28 | [Minimum Sum Subarray](./GeeksForGeeks/Medium/Minimum%20Sum%20Subarray) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) | Medium | 23 Jul 2026 | 10:08 pm |
 | 29 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 23 Jul 2026 | 10:19 pm |
+| 30 | [Maximum Subarray Sum with One Deletion](./LeetCode/Medium/Maximum%20Subarray%20Sum%20with%20One%20Deletion) | [LeetCode](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Medium | 25 Jul 2026 | 02:58 am |
