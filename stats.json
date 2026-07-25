@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-07-25",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 19,
+    "medium": 20,
     "hard": 0,
     "basic": 0
   },
@@ -41,7 +41,8 @@
     "GeeksForGeeks_Minimum_Sum_Subarray": true,
     "LeetCode_Maximum_Product_Subarray": true,
     "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true,
-    "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true
+    "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true,
+    "LeetCode_Maximum_Sum_Circular_Subarray": true
   },
   "activityHistory": {
     "2026-06-19": 9,
@@ -58,10 +59,11 @@
     "2026-07-21": 1,
     "2026-07-22": 1,
     "2026-07-23": 3,
-    "2026-07-25": 2
+    "2026-07-25": 3
   },
   "todayProblems": [
     "Maximum Subarray Sum with One Deletion",
-    "Maximum Absolute Sum of Any Subarray"
+    "Maximum Absolute Sum of Any Subarray",
+    "Maximum Sum Circular Subarray"
   ]
 }
