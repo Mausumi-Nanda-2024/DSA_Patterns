@@ -32,3 +32,4 @@
 | 30 | [Maximum Subarray Sum with One Deletion](./LeetCode/Medium/Maximum%20Subarray%20Sum%20with%20One%20Deletion) | [LeetCode](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Medium | 25 Jul 2026 | 02:58 am |
 | 31 | [Maximum Absolute Sum of Any Subarray](./LeetCode/Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | 25 Jul 2026 | 07:25 pm |
 | 32 | [Maximum Sum Circular Subarray](./LeetCode/Medium/Maximum%20Sum%20Circular%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | 25 Jul 2026 | 09:28 pm |
+| 33 | [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | Easy | 27 Jul 2026 | 09:47 pm |
