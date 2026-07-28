@@ -33,3 +33,4 @@
 | 31 | [Maximum Absolute Sum of Any Subarray](./LeetCode/Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | 25 Jul 2026 | 07:25 pm |
 | 32 | [Maximum Sum Circular Subarray](./LeetCode/Medium/Maximum%20Sum%20Circular%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | 25 Jul 2026 | 09:28 pm |
 | 33 | [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | Easy | 27 Jul 2026 | 09:47 pm |
+| 34 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 28 Jul 2026 | 09:17 pm |
