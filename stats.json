@@ -1,12 +1,12 @@
 {
-  "totalSolved": 34,
-  "currentStreak": 2,
+  "totalSolved": 35,
+  "currentStreak": 3,
   "maxStreak": 6,
-  "lastSyncDate": "2026-07-28",
+  "lastSyncDate": "2026-07-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 21,
+    "medium": 22,
     "hard": 0,
     "basic": 0
   },
@@ -44,7 +44,8 @@
     "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true,
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
     "LeetCode_Find_Pivot_Index": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "LeetCode_Subarray_Sums_Divisible_by_K": true
   },
   "activityHistory": {
     "2026-06-19": 9,
@@ -63,9 +64,10 @@
     "2026-07-23": 3,
     "2026-07-25": 3,
     "2026-07-27": 1,
-    "2026-07-28": 1
+    "2026-07-28": 1,
+    "2026-07-29": 1
   },
   "todayProblems": [
-    "Subarray Sum Equals K"
+    "Subarray Sums Divisible by K"
   ]
 }
