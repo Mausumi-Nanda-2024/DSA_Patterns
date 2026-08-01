@@ -36,3 +36,4 @@
 | 34 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 28 Jul 2026 | 09:17 pm |
 | 35 | [Subarray Sums Divisible by K](./LeetCode/Medium/Subarray%20Sums%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | 29 Jul 2026 | 09:06 pm |
 | 36 | [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) | [LeetCode](https://leetcode.com/problems/contiguous-array/) | Medium | 30 Jul 2026 | 08:08 pm |
+| 37 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 01 Aug 2026 | 10:37 am |
