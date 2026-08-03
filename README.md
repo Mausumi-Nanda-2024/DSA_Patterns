@@ -39,3 +39,4 @@
 | 37 | [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | 01 Aug 2026 | 10:37 am |
 | 38 | [Segregate 0s and 1s](./GeeksForGeeks/Easy/Segregate%200s%20and%201s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | Easy | 01 Aug 2026 | 10:46 am |
 | 39 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 01 Aug 2026 | 10:30 pm |
+| 40 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 03 Aug 2026 | 07:36 pm |
