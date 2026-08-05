@@ -42,3 +42,4 @@
 | 40 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 03 Aug 2026 | 07:36 pm |
 | 41 | [Interval List Intersections](./LeetCode/Medium/Interval%20List%20Intersections) | [LeetCode](https://leetcode.com/problems/interval-list-intersections/) | Medium | 03 Aug 2026 | 10:12 pm |
 | 42 | [Overlapping Intervals](./GeeksForGeeks/Easy/Overlapping%20Intervals) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Easy | 03 Aug 2026 | 11:17 pm |
+| 43 | [Meeting Rooms II](./GeeksForGeeks/Medium/Meeting%20Rooms%20II) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) | Medium | 05 Aug 2026 | 09:43 pm |
