@@ -46,3 +46,4 @@
 | 44 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 10 Aug 2026 | 08:12 pm |
 | 45 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 11 Aug 2026 | 08:27 pm |
 | 46 | [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) | Medium | 12 Aug 2026 | 11:31 pm |
+| 47 | [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) | Medium | 13 Aug 2026 | 10:05 pm |
