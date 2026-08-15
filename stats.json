@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
-  "currentStreak": 4,
+  "totalSolved": 48,
+  "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-13",
+  "lastSyncDate": "2026-08-15",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 29,
+    "medium": 30,
     "hard": 0,
     "basic": 0
   },
@@ -57,7 +57,8 @@
     "LeetCode_Remove_All_Adjacent_Duplicates_In_String": true,
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Daily_Temperatures": true,
-    "LeetCode_Next_Greater_Element_II": true
+    "LeetCode_Next_Greater_Element_II": true,
+    "LeetCode_Remove_All_Adjacent_Duplicates_in_String_II": true
   },
   "activityHistory": {
     "2026-06-19": 9,
@@ -85,9 +86,10 @@
     "2026-08-10": 1,
     "2026-08-11": 1,
     "2026-08-12": 1,
-    "2026-08-13": 1
+    "2026-08-13": 1,
+    "2026-08-15": 1
   },
   "todayProblems": [
-    "Next Greater Element II"
+    "Remove All Adjacent Duplicates in String II"
   ]
 }
