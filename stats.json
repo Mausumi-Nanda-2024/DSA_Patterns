@@ -1,1 +1,38 @@
-{"leetcode":{"easy":1,"hard":0,"medium":0,"shas":{"0496-next-greater-element-i":{"0496-next-greater-element-i.java":"8ce79a9cd454948a31a09dc2bf7255d6948f22b8","README.md":"8bccff043f20feba013677a8474ee19c2369922f","difficulty":"easy"},"README.md":{"":"37a758bf704187f479a69b2f28622a3a6bcd4453"}},"solved":1}}
+{
+  "leetcode": {
+    "easy": 1,
+    "hard": 0,
+    "medium": 0,
+    "shas": {
+      "0496-next-greater-element-i": {
+        "0496-next-greater-element-i.java": "8ce79a9cd454948a31a09dc2bf7255d6948f22b8",
+        "README.md": "8bccff043f20feba013677a8474ee19c2369922f",
+        "difficulty": "easy"
+      },
+      "README.md": {
+        "": "37a758bf704187f479a69b2f28622a3a6bcd4453"
+      }
+    },
+    "solved": 1
+  },
+  "syncedProblems": {
+    "GeeksForGeeks_Factorial": true
+  },
+  "totalSolved": 1,
+  "difficultyCounts": {
+    "easy": 0,
+    "medium": 0,
+    "hard": 0,
+    "basic": 1
+  },
+  "todayProblems": [
+    "Factorial"
+  ],
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-16",
+  "maxStreak": 1,
+  "activityHistory": {
+    "2026-08-16": 1
+  }
+}
