@@ -48,3 +48,23 @@
 | 46 | [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) | Medium | 12 Aug 2026 | 11:31 pm |
 | 47 | [Next Greater Element II](./LeetCode/Medium/Next%20Greater%20Element%20II) | [LeetCode](https://leetcode.com/problems/next-greater-element-ii/) | Medium | 13 Aug 2026 | 10:05 pm |
 | 48 | [Remove All Adjacent Duplicates in String II](./LeetCode/Medium/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | 15 Aug 2026 | 06:58 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mausumi-Nanda-2024/DSA_Patterns/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mausumi-Nanda-2024/DSA_Patterns/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mausumi-Nanda-2024/DSA_Patterns/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mausumi-Nanda-2024/DSA_Patterns/tree/master/0496-next-greater-element-i) |
+<!---LeetCode Topics End-->
