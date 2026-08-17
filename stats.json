@@ -17,24 +17,26 @@
   },
   "syncedProblems": {
     "GeeksForGeeks_Factorial": true,
-    "LeetCode_Repeated_DNA_Sequences": true
+    "LeetCode_Repeated_DNA_Sequences": true,
+    "LeetCode_First_Unique_Character_in_a_String": true
   },
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 1
   },
   "todayProblems": [
-    "Repeated DNA Sequences"
+    "Repeated DNA Sequences",
+    "First Unique Character in a String"
   ],
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-17",
   "maxStreak": 2,
   "activityHistory": {
     "2026-08-16": 1,
-    "2026-08-17": 1
+    "2026-08-17": 2
   }
 }
