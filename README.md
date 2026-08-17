@@ -70,3 +70,4 @@
 <!---LeetCode Topics End-->
 | 49 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1?page=1) | Basic | 16 Aug 2026 | 12:38 pm |
 | 50 | [Repeated DNA Sequences](./LeetCode/Medium/Repeated%20DNA%20Sequences) | [LeetCode](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | 17 Aug 2026 | 12:08 pm |
+| 51 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 17 Aug 2026 | 12:10 pm |
