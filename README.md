@@ -69,3 +69,4 @@
 | [0496-next-greater-element-i](https://github.com/Mausumi-Nanda-2024/DSA_Patterns/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
 | 49 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1?page=1) | Basic | 16 Aug 2026 | 12:38 pm |
+| 50 | [Repeated DNA Sequences](./LeetCode/Medium/Repeated%20DNA%20Sequences) | [LeetCode](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | 17 Aug 2026 | 12:08 pm |
