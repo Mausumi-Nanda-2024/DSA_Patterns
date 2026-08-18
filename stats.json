@@ -20,27 +20,26 @@
     "LeetCode_Repeated_DNA_Sequences": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
     "LeetCode_Next_Greater_Element_I": true,
-    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
+    "LeetCode_Ransom_Note": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 1,
     "hard": 0,
     "basic": 1
   },
   "todayProblems": [
-    "Repeated DNA Sequences",
-    "First Unique Character in a String",
-    "Next Greater Element I",
-    "Max Sum Subarray of size K"
+    "Ransom Note"
   ],
-  "currentStreak": 2,
-  "todayCount": 4,
-  "lastSyncDate": "2026-08-17",
-  "maxStreak": 2,
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-18",
+  "maxStreak": 3,
   "activityHistory": {
     "2026-08-16": 1,
-    "2026-08-17": 4
+    "2026-08-17": 4,
+    "2026-08-18": 1
   }
 }

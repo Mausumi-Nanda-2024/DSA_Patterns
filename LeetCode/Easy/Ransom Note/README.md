@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/ransom-note/)
 
 ## Solved On
-19 Jun 2026 at 06:23 pm
+18 Aug 2026 at 11:19 am
 
 <p>Given two strings <code>ransomNote</code> and <code>magazine</code>, return <code>true</code><em> if </em><code>ransomNote</code><em> can be constructed by using the letters from </em><code>magazine</code><em> and </em><code>false</code><em> otherwise</em>.</p>
 
