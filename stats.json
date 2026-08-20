@@ -21,25 +21,27 @@
     "LeetCode_First_Unique_Character_in_a_String": true,
     "LeetCode_Next_Greater_Element_I": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
-    "LeetCode_Ransom_Note": true
+    "LeetCode_Ransom_Note": true,
+    "GeeksForGeeks_Reverse_a_String": true
   },
-  "totalSolved": 6,
+  "totalSolved": 7,
   "difficultyCounts": {
     "easy": 4,
     "medium": 1,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "todayProblems": [
-    "Ransom Note"
+    "Reverse a String"
   ],
-  "currentStreak": 3,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-18",
+  "lastSyncDate": "2026-08-20",
   "maxStreak": 3,
   "activityHistory": {
     "2026-08-16": 1,
     "2026-08-17": 4,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-20": 1
   }
 }
