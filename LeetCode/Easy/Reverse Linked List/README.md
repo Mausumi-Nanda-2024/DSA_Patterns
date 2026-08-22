@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/reverse-linked-list/)
 
 ## Solved On
-20 Jun 2026 at 04:40 pm
+22 Aug 2026 at 06:41 pm
 
 <p>Given the <code>head</code> of a singly linked list, reverse the list, and return <em>the reversed list</em>.</p>
 
