@@ -73,3 +73,4 @@
 | 51 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 17 Aug 2026 | 12:10 pm |
 | 52 | [Reverse a String](./GeeksForGeeks/Basic/Reverse%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | Basic | 20 Aug 2026 | 10:44 pm |
 | 53 | [First Occurence](./GeeksForGeeks/Basic/First%20Occurence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-strstr/1) | Basic | 20 Aug 2026 | 10:46 pm |
+| 54 | [Reverse Linked List II](./LeetCode/Medium/Reverse%20Linked%20List%20II) | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 23 Aug 2026 | 11:14 am |

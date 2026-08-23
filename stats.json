@@ -24,27 +24,29 @@
     "LeetCode_Ransom_Note": true,
     "GeeksForGeeks_Reverse_a_String": true,
     "GeeksForGeeks_First_Occurence": true,
-    "LeetCode_Reverse_Linked_List": true
+    "LeetCode_Reverse_Linked_List": true,
+    "LeetCode_Reverse_Linked_List_II": true
   },
-  "totalSolved": 9,
+  "totalSolved": 10,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 3
   },
   "todayProblems": [
-    "Reverse Linked List"
+    "Reverse Linked List II"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-22",
+  "lastSyncDate": "2026-08-23",
   "maxStreak": 3,
   "activityHistory": {
     "2026-08-16": 1,
     "2026-08-17": 4,
     "2026-08-18": 1,
     "2026-08-20": 2,
-    "2026-08-22": 1
+    "2026-08-22": 1,
+    "2026-08-23": 1
   }
 }
