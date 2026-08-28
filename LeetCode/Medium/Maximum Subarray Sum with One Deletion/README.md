@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)
 
 ## Solved On
-25 Jul 2026 at 02:58 am
+28 Aug 2026 at 01:08 pm
 
 <p>Given an array of integers, return the maximum sum for a <strong>non-empty</strong>&nbsp;subarray (contiguous elements) with at most one element deletion.&nbsp;In other words, you want to choose a subarray and optionally delete one element from it so that there is still at least one element left and the&nbsp;sum of the remaining elements is maximum possible.</p>
 

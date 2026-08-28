@@ -25,21 +25,22 @@
     "GeeksForGeeks_Reverse_a_String": true,
     "GeeksForGeeks_First_Occurence": true,
     "LeetCode_Reverse_Linked_List": true,
-    "LeetCode_Reverse_Linked_List_II": true
+    "LeetCode_Reverse_Linked_List_II": true,
+    "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true
   },
-  "totalSolved": 10,
+  "totalSolved": 11,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 3
   },
   "todayProblems": [
-    "Reverse Linked List II"
+    "Maximum Subarray Sum with One Deletion"
   ],
-  "currentStreak": 2,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-23",
+  "lastSyncDate": "2026-08-28",
   "maxStreak": 3,
   "activityHistory": {
     "2026-08-16": 1,
@@ -47,6 +48,7 @@
     "2026-08-18": 1,
     "2026-08-20": 2,
     "2026-08-22": 1,
-    "2026-08-23": 1
+    "2026-08-23": 1,
+    "2026-08-28": 1
   }
 }

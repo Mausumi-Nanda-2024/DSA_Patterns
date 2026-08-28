@@ -1,28 +1,29 @@
 class Solution {
-    public int maximumSum(int[] a) {
-        int noDelete = a[0];
+    public int maximumSum(int[] arr) {
 
-        int oneDelete = Integer.MIN_VALUE;
+        int n = arr.length;
 
-        int result = a[0];
+        int no_power = arr[0];
+        int power = 0;
+        int result = arr[0];
 
-        for(int i =1 ; i< a.length; i++){
-            int current = a[i];
+        for(int i = 1; i<n; i++){
 
-            int previousNoDelete = noDelete;
-            int previousOneDelete = oneDelete;
+            int v1 = arr[i];
+            int v2 = no_power + arr[i];
+            int v3 = power + arr[i];
+            int v4 = no_power;
 
-            noDelete = Math.max(previousNoDelete + current , current);
+           result = Math.max(result,
+                    Math.max(Math.max(v1, v2), Math.max(v3, v4)));
 
-            if(previousOneDelete == Integer.MIN_VALUE){
-                oneDelete = previousNoDelete;
-            } else{
-                oneDelete = Math.max(previousOneDelete + current , previousNoDelete);
-            }
+           int  no_power_new = Math.max(v1 , v2);
+            int power_new = Math.max(v3 , v4);
 
-            result = Math.max(result , Math.max(noDelete , oneDelete));
+            no_power = no_power_new;
+            power = power_new;
         }
-
+        
         return result;
     }
 }
