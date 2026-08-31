@@ -78,3 +78,4 @@
 | 56 | [Reverse Nodes in k-Group](./LeetCode/Hard/Reverse%20Nodes%20in%20k-Group) | [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | 31 Aug 2026 | 01:05 pm |
 | 57 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 31 Aug 2026 | 07:36 pm |
 | 58 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 31 Aug 2026 | 09:49 pm |
+| 59 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 01 Sept 2026 | 12:02 am |
