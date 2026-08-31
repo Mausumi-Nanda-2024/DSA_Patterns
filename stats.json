@@ -29,11 +29,12 @@
     "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true,
     "LeetCode_Swap_Nodes_in_Pairs": true,
     "LeetCode_Reverse_Nodes_in_k-Group": true,
-    "LeetCode_Rotate_List": true
+    "LeetCode_Rotate_List": true,
+    "LeetCode_Maximum_Average_Subarray_I": true
   },
-  "totalSolved": 14,
+  "totalSolved": 15,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 5,
     "hard": 1,
     "basic": 3
@@ -41,10 +42,11 @@
   "todayProblems": [
     "Swap Nodes in Pairs",
     "Reverse Nodes in k-Group",
-    "Rotate List"
+    "Rotate List",
+    "Maximum Average Subarray I"
   ],
   "currentStreak": 1,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-31",
   "maxStreak": 3,
   "activityHistory": {
@@ -55,6 +57,6 @@
     "2026-08-22": 1,
     "2026-08-23": 1,
     "2026-08-28": 1,
-    "2026-08-31": 3
+    "2026-08-31": 4
   }
 }
