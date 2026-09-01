@@ -79,3 +79,4 @@
 | 57 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 31 Aug 2026 | 07:36 pm |
 | 58 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 31 Aug 2026 | 09:49 pm |
 | 59 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 01 Sept 2026 | 12:02 am |
+| 60 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 01 Sept 2026 | 10:59 pm |
