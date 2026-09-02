@@ -32,22 +32,22 @@
     "LeetCode_Rotate_List": true,
     "LeetCode_Maximum_Average_Subarray_I": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_First_Missing_Positive": true
+    "LeetCode_First_Missing_Positive": true,
+    "LeetCode_Binary_Search": true
   },
-  "totalSolved": 17,
+  "totalSolved": 18,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 6,
     "hard": 2,
     "basic": 3
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters",
-    "First Missing Positive"
+    "Binary Search"
   ],
-  "currentStreak": 2,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-01",
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-02",
   "maxStreak": 3,
   "activityHistory": {
     "2026-08-16": 1,
@@ -58,6 +58,7 @@
     "2026-08-23": 1,
     "2026-08-28": 1,
     "2026-08-31": 4,
-    "2026-09-01": 2
+    "2026-09-01": 2,
+    "2026-09-02": 1
   }
 }
