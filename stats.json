@@ -34,23 +34,23 @@
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_First_Missing_Positive": true,
     "LeetCode_Binary_Search": true,
-    "GeeksForGeeks_Ceil_in_a_Sorted_Array": true
+    "GeeksForGeeks_Ceil_in_a_Sorted_Array": true,
+    "GeeksForGeeks_Count_Set_Bits": true
   },
-  "totalSolved": 19,
+  "totalSolved": 20,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 6,
     "hard": 2,
     "basic": 3
   },
   "todayProblems": [
-    "Binary Search",
-    "Ceil in a Sorted Array"
+    "Count Set Bits"
   ],
-  "currentStreak": 3,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-02",
-  "maxStreak": 3,
+  "currentStreak": 4,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-03",
+  "maxStreak": 4,
   "activityHistory": {
     "2026-08-16": 1,
     "2026-08-17": 4,
@@ -61,6 +61,7 @@
     "2026-08-28": 1,
     "2026-08-31": 4,
     "2026-09-01": 2,
-    "2026-09-02": 2
+    "2026-09-02": 2,
+    "2026-09-03": 1
   }
 }
