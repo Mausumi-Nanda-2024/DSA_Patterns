@@ -84,3 +84,4 @@
 | 62 | [Ceil in a Sorted Array](./GeeksForGeeks/Easy/Ceil%20in%20a%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | Easy | 02 Sept 2026 | 11:08 am |
 | 63 | [Count Set Bits](./GeeksForGeeks/Easy/Count%20Set%20Bits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/set-bits0143/1) | Easy | 03 Sept 2026 | 06:18 pm |
 | 64 | [Unique Number I](./GeeksForGeeks/Easy/Unique%20Number%20I) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-unique-number/1) | Easy | 03 Sept 2026 | 06:33 pm |
+| 65 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 05 Sept 2026 | 07:34 pm |
