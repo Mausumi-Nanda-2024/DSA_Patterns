@@ -37,21 +37,22 @@
     "GeeksForGeeks_Ceil_in_a_Sorted_Array": true,
     "GeeksForGeeks_Count_Set_Bits": true,
     "GeeksForGeeks_Unique_Number_I": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "LeetCode_Valid_Anagram": true
   },
-  "totalSolved": 22,
+  "totalSolved": 23,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 7,
     "hard": 2,
     "basic": 3
   },
   "todayProblems": [
-    "Find First and Last Position of Element in Sorted Array"
+    "Valid Anagram"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-05",
+  "lastSyncDate": "2026-09-06",
   "maxStreak": 4,
   "activityHistory": {
     "2026-08-16": 1,
@@ -65,6 +66,7 @@
     "2026-09-01": 2,
     "2026-09-02": 2,
     "2026-09-03": 2,
-    "2026-09-05": 1
+    "2026-09-05": 1,
+    "2026-09-06": 1
   }
 }
