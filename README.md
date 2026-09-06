@@ -87,3 +87,4 @@
 | 65 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 05 Sept 2026 | 07:34 pm |
 | 66 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 06 Sept 2026 | 08:16 pm |
 | 67 | [Floyd's triangle](./GeeksForGeeks/Basic/Floyd's%20triangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floyds-triangle1222/1) | Basic | 06 Sept 2026 | 08:42 pm |
+| 68 | [Jumpy Ball](./GeeksForGeeks/Basic/Jumpy%20Ball) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/jumpy-ball1449/1) | Basic | 06 Sept 2026 | 09:22 pm |
