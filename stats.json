@@ -38,20 +38,22 @@
     "GeeksForGeeks_Count_Set_Bits": true,
     "GeeksForGeeks_Unique_Number_I": true,
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "GeeksForGeeks_Floyd's_triangle": true
   },
-  "totalSolved": 23,
+  "totalSolved": 24,
   "difficultyCounts": {
     "easy": 11,
     "medium": 7,
     "hard": 2,
-    "basic": 3
+    "basic": 4
   },
   "todayProblems": [
-    "Valid Anagram"
+    "Valid Anagram",
+    "Floyd's triangle"
   ],
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-06",
   "maxStreak": 4,
   "activityHistory": {
@@ -67,6 +69,6 @@
     "2026-09-02": 2,
     "2026-09-03": 2,
     "2026-09-05": 1,
-    "2026-09-06": 1
+    "2026-09-06": 2
   }
 }
