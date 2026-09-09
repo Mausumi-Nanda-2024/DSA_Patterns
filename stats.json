@@ -50,11 +50,12 @@
     "GeeksForGeeks_Frequency_of_Elements": true,
     "GeeksForGeeks_Remove_Duplicates_from_Unsorted": true,
     "GeeksForGeeks_Array_Subset": true,
-    "GeeksForGeeks_Move_All_Zeroes_to_End": true
+    "GeeksForGeeks_Move_All_Zeroes_to_End": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_–_Max_one_Transaction_Allowed": true
   },
-  "totalSolved": 35,
+  "totalSolved": 36,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 7,
     "hard": 2,
     "basic": 11
@@ -69,10 +70,11 @@
     "Frequency of Elements",
     "Remove Duplicates from Unsorted",
     "Array Subset",
-    "Move All Zeroes to End"
+    "Move All Zeroes to End",
+    "Stock Buy and Sell – Max one Transaction Allowed"
   ],
   "currentStreak": 1,
-  "todayCount": 10,
+  "todayCount": 11,
   "lastSyncDate": "2026-09-09",
   "maxStreak": 4,
   "activityHistory": {
@@ -89,6 +91,6 @@
     "2026-09-03": 2,
     "2026-09-05": 1,
     "2026-09-06": 3,
-    "2026-09-09": 10
+    "2026-09-09": 11
   }
 }
