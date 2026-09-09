@@ -48,14 +48,15 @@
     "GeeksForGeeks_Largest_in_Array": true,
     "GeeksForGeeks_Reverse_Array": true,
     "GeeksForGeeks_Frequency_of_Elements": true,
-    "GeeksForGeeks_Remove_Duplicates_from_Unsorted": true
+    "GeeksForGeeks_Remove_Duplicates_from_Unsorted": true,
+    "GeeksForGeeks_Array_Subset": true
   },
-  "totalSolved": 33,
+  "totalSolved": 34,
   "difficultyCounts": {
     "easy": 14,
     "medium": 7,
     "hard": 2,
-    "basic": 10
+    "basic": 11
   },
   "todayProblems": [
     "Right-Angled Number Triangle Pattern",
@@ -65,10 +66,11 @@
     "Largest in Array",
     "Reverse Array",
     "Frequency of Elements",
-    "Remove Duplicates from Unsorted"
+    "Remove Duplicates from Unsorted",
+    "Array Subset"
   ],
   "currentStreak": 1,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-09-09",
   "maxStreak": 4,
   "activityHistory": {
@@ -85,6 +87,6 @@
     "2026-09-03": 2,
     "2026-09-05": 1,
     "2026-09-06": 3,
-    "2026-09-09": 8
+    "2026-09-09": 9
   }
 }
