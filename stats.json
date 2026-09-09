@@ -46,11 +46,12 @@
     "GeeksForGeeks_Inverted_Triangle_of_Stars": true,
     "GeeksForGeeks_Diamond_Shape_Pattern": true,
     "GeeksForGeeks_Largest_in_Array": true,
-    "GeeksForGeeks_Reverse_Array": true
+    "GeeksForGeeks_Reverse_Array": true,
+    "GeeksForGeeks_Frequency_of_Elements": true
   },
-  "totalSolved": 31,
+  "totalSolved": 32,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 7,
     "hard": 2,
     "basic": 9
@@ -61,10 +62,11 @@
     "Inverted Triangle of Stars",
     "Diamond Shape Pattern",
     "Largest in Array",
-    "Reverse Array"
+    "Reverse Array",
+    "Frequency of Elements"
   ],
   "currentStreak": 1,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-09-09",
   "maxStreak": 4,
   "activityHistory": {
@@ -81,6 +83,6 @@
     "2026-09-03": 2,
     "2026-09-05": 1,
     "2026-09-06": 3,
-    "2026-09-09": 6
+    "2026-09-09": 7
   }
 }
