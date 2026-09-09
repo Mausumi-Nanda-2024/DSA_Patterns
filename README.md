@@ -95,3 +95,4 @@
 | 73 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 09 Sept 2026 | 01:17 pm |
 | 74 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 09 Sept 2026 | 01:23 pm |
 | 75 | [Frequency of Elements](./GeeksForGeeks/Easy/Frequency%20of%20Elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1) | Easy | 09 Sept 2026 | 02:31 pm |
+| 76 | [Remove Duplicates from Unsorted](./GeeksForGeeks/Basic/Remove%20Duplicates%20from%20Unsorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1) | Basic | 09 Sept 2026 | 03:32 pm |
