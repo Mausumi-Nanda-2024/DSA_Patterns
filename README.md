@@ -91,3 +91,4 @@
 | 69 | [Right-Angled Number Triangle Pattern](./GeeksForGeeks/Basic/Right-Angled%20Number%20Triangle%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-angled-number-triangle/1?page=1&category=pattern-printing&sortBy=submissions) | Basic | 09 Sept 2026 | 11:14 am |
 | 70 | [Pyramid Pattern](./GeeksForGeeks/Basic/Pyramid%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pyramid-patterns/1?page=1&category=pattern-printing&sortBy=submissions) | Basic | 09 Sept 2026 | 11:31 am |
 | 71 | [Inverted Triangle of Stars](./GeeksForGeeks/Easy/Inverted%20Triangle%20of%20Stars) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1?page=1&category=pattern-printing&sortBy=submissions) | Easy | 09 Sept 2026 | 11:59 am |
+| 72 | [Diamond Shape Pattern](./GeeksForGeeks/Basic/Diamond%20Shape%20Pattern) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pattern/1) | Basic | 09 Sept 2026 | 12:18 pm |
