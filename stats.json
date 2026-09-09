@@ -49,11 +49,12 @@
     "GeeksForGeeks_Reverse_Array": true,
     "GeeksForGeeks_Frequency_of_Elements": true,
     "GeeksForGeeks_Remove_Duplicates_from_Unsorted": true,
-    "GeeksForGeeks_Array_Subset": true
+    "GeeksForGeeks_Array_Subset": true,
+    "GeeksForGeeks_Move_All_Zeroes_to_End": true
   },
-  "totalSolved": 34,
+  "totalSolved": 35,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 7,
     "hard": 2,
     "basic": 11
@@ -67,10 +68,11 @@
     "Reverse Array",
     "Frequency of Elements",
     "Remove Duplicates from Unsorted",
-    "Array Subset"
+    "Array Subset",
+    "Move All Zeroes to End"
   ],
   "currentStreak": 1,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-09-09",
   "maxStreak": 4,
   "activityHistory": {
@@ -87,6 +89,6 @@
     "2026-09-03": 2,
     "2026-09-05": 1,
     "2026-09-06": 3,
-    "2026-09-09": 9
+    "2026-09-09": 10
   }
 }
