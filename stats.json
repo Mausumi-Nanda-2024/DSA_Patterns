@@ -51,25 +51,27 @@
     "GeeksForGeeks_Remove_Duplicates_from_Unsorted": true,
     "GeeksForGeeks_Array_Subset": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂ¢ÃÂÃÂ_Max_one_Transaction_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ_Max_one_Transaction_Allowed": true,
     "GeeksForGeeks_Missing_And_Repeating": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_â_Multiple_Transaction_Allowed": true,
-    "GeeksForGeeks_Subarrays_Product_Less_than_K": true
+    "GeeksForGeeks_Stock_Buy_and_Sell_Ã¢ÂÂ_Multiple_Transaction_Allowed": true,
+    "GeeksForGeeks_Subarrays_Product_Less_than_K": true,
+    "GeeksForGeeks_Max_Consecutive_1's_with_K_Flips": true
   },
-  "totalSolved": 39,
+  "totalSolved": 40,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 9,
+    "medium": 10,
     "hard": 2,
     "basic": 11
   },
   "todayProblems": [
     "Missing And Repeating",
-    "Stock Buy and Sell â Multiple Transaction Allowed",
-    "Subarrays Product Less than K"
+    "Stock Buy and Sell Ã¢ÂÂ Multiple Transaction Allowed",
+    "Subarrays Product Less than K",
+    "Max Consecutive 1's with K Flips"
   ],
   "currentStreak": 2,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-09-10",
   "maxStreak": 4,
   "activityHistory": {
@@ -87,6 +89,6 @@
     "2026-09-05": 1,
     "2026-09-06": 3,
     "2026-09-09": 11,
-    "2026-09-10": 3
+    "2026-09-10": 4
   }
 }
