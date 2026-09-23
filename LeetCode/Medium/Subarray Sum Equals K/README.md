@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 ## Solved On
-28 Jul 2026 at 09:17 pm
+23 Sept 2026 at 12:41 pm
 
 <p>Given an array of integers <code>nums</code> and an integer <code>k</code>, return <em>the total number of subarrays whose sum equals to</em> <code>k</code>.</p>
 
