@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/find-pivot-index/)
 
 ## Solved On
-27 Jul 2026 at 09:47 pm
+23 Sept 2026 at 11:42 am
 
 <p>Given an array of integers <code>nums</code>, calculate the <strong>pivot index</strong> of this array.</p>
 
