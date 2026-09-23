@@ -8,7 +8,7 @@
 [View Problem](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 
 ## Solved On
-29 Jul 2026 at 09:06 pm
+23 Sept 2026 at 01:53 pm
 
 <p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of non-empty <strong>subarrays</strong> that have a sum divisible by </em><code>k</code>.</p>
 
