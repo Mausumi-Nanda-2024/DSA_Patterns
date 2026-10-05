@@ -51,29 +51,30 @@
     "GeeksForGeeks_Remove_Duplicates_from_Unsorted": true,
     "GeeksForGeeks_Array_Subset": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Max_one_Transaction_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Max_one_Transaction_Allowed": true,
     "GeeksForGeeks_Missing_And_Repeating": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Multiple_Transaction_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Multiple_Transaction_Allowed": true,
     "GeeksForGeeks_Subarrays_Product_Less_than_K": true,
     "GeeksForGeeks_Max_Consecutive_1's_with_K_Flips": true,
     "LeetCode_Find_Pivot_Index": true,
     "LeetCode_Subarray_Sum_Equals_K": true,
     "LeetCode_Subarray_Sums_Divisible_by_K": true,
-    "LeetCode_Peak_Index_in_a_Mountain_Array": true
+    "LeetCode_Peak_Index_in_a_Mountain_Array": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
   },
-  "totalSolved": 44,
+  "totalSolved": 45,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 13,
+    "medium": 14,
     "hard": 2,
     "basic": 11
   },
   "todayProblems": [
-    "Peak Index in a Mountain Array"
+    "Find Minimum in Rotated Sorted Array"
   ],
   "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-10-03",
+  "lastSyncDate": "2026-10-05",
   "maxStreak": 4,
   "activityHistory": {
     "2026-08-16": 1,
@@ -92,6 +93,7 @@
     "2026-09-09": 11,
     "2026-09-10": 4,
     "2026-09-23": 3,
-    "2026-10-03": 1
+    "2026-10-03": 1,
+    "2026-10-05": 1
   }
 }
